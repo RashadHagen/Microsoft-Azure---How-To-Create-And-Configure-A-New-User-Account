@@ -33,9 +33,13 @@ This project required a structured and secure way to manage internal user identi
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
+
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from https://portal.azure.com 
-    <a href="https://github.com/RashadHagen/How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> (LINK: How To Open Entra ID From portal.azure.com)</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from https://portal.azure.com</b></span>  
+<br/><br/>
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b><a href="https://github.com/RashadHagen/How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> (LINK: How To Open Entra ID From portal.azure.com)</b></span>  
   <br/>
 
 <table>
@@ -193,7 +197,6 @@ This project required a structured and secure way to manage internal user identi
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will return to the Microsoft Entra ID Overview webpage.</b></span>  
 <br/><br/>
-
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	ACTION REQUIRED: Refresh the webpage (to update the number of users you will see to the right of “Users”).</b></span>  
