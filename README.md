@@ -15,7 +15,7 @@ This project required a structured and secure way to manage internal user identi
   
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
- - <b>Microsoft Azure</b>
+ - <b>Microsoft Azure, Microsoft Entra ID</b>
 
 
 
@@ -24,7 +24,7 @@ This project required a structured and secure way to manage internal user identi
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
  
-- <b>Windows 10 & Windows Server 2016</b>
+- <b>Windows 11 & Windows Server 2025</b>
 
 
 
