@@ -34,7 +34,7 @@ This project required a structured and secure way to manage internal user identi
  <br/>
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from www.portal.azure.com 
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from https://portal.azure.com 
     <a href="https://github.com/RashadHagen/How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> How To Open Entra ID From portal.azure.com</b></span>  
   <br/>
 
