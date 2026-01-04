@@ -33,7 +33,6 @@ This project required a structured and secure way to manage internal user identi
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
-
 </div>
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from https://portal.azure.com</b></span>  
 <br/><br/>
