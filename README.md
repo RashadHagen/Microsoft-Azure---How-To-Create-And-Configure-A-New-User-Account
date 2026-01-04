@@ -33,9 +33,10 @@ This project required a structured and secure way to manage internal user identi
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
-<div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Browser.  Type: https://azure.microsoft.com/en-us/</b></span>  
-<br/>
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Microsoft Entra ID from portal.azure.com 
+    <a href="https://github.com/RashadHagen/How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> How To Open Entra ID From portal.azure.com</b></span>  
+  <br/>
 
 <table>
   <tr>
