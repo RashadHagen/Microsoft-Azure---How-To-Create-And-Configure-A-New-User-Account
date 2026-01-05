@@ -93,7 +93,7 @@ In this project, a standardized identity is created in Microsoft Entra ID to sup
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Hover over: User. 
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Hover over: User.</b></span> 
 <br/>
 
 <table>
