@@ -107,7 +107,7 @@ In this project, a standardized identity is created in Microsoft Entra ID to sup
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create new user. 
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Create new user.</b></span>
 <br/>
 
 <table>
@@ -120,7 +120,7 @@ In this project, a standardized identity is created in Microsoft Entra ID to sup
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will go to a different webpage: Create new user – basics tab.  When done, you can either select: Review + create  OR  Next: Properties – to go to the Properties tab (top-left, next to Basics tab). 
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>You will go to a different webpage: Create new user – basics tab.  When done, you can either select: Review + create  OR  Next: Properties – to go to the Properties tab (top-left, next to Basics tab).</b></span>
 <br/>
 
 <table>
